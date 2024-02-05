@@ -1,0 +1,21 @@
+
+Enter a noun: tree
+Enter a adjective: yellow
+Enter a verb: go swimming
+Enter a noun: horse
+Enter a verb: sleep
+
+Once upon a time, there was a yellow tree who loved to go swimming all day.
+
+One day, horse walked into the room and caught the tree in the act.
+
+horse: "What are you doing?"
+tree: "I'm just go swimminging, what's the big deal?"
+horse: Well, it's not every day that you see a tree go swimminging in the middle of the day."
+tree: "I guess you're right. Maybe I should take a break."
+horse: "That's probably a good idea. Why don't we go sleep instead?"
+
+And so, horse and the tree went off to sleep and had a great time.
+The end.
+
+
